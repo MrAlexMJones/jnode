@@ -1,4 +1,4 @@
-# Welcome to JNode!
+# Welcome to KoHi OS a Fork of JNODE!
 
 [![Build Status](https://travis-ci.org/jnode/jnode.svg?branch=master)](https://travis-ci.org/jnode/jnode)
 
